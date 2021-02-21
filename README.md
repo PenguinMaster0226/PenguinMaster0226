@@ -5,6 +5,8 @@ I'm a fairly experienced Python developer and I own a Discord bot named [**CRYO*
 ## About CRYO
 **CRYO** is a multipurpose bot made with [**discord.py**](https://github.com/Rapptz/discord.py) that has many features such as welcome messages with cards, leveling, reaction roles, an epic currency system, and much more!
 <br>
+<img src="cryo-logo-round.png" align=right width="220px">
+<br>
 ### Bot Lists
 [**top.gg**](https://top.gg/bot/771750510893072445)
 <br>
