@@ -20,5 +20,9 @@ I'm a fairly experienced Python developer and I own a Discord bot named [**CRYO*
 <br>
 [**Bots for Discord**](https://botsfordiscord.com/bot/771750510893072445)
 
-## My GitHub Stats
+## GitHub Info
+#### Stats
 [![PenguinMaster0226's Stats](https://github-readme-stats.vercel.app/api?username=PenguinMaster0226&theme=react)](https://github.com/PenguinMaster0226/)
+<br>
+#### Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinMaster0226&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
